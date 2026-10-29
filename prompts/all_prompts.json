@@ -1,0 +1,325 @@
+{
+  "project": "world.search(you); — Bonnie x Fanny MV",
+  "delivery": "1920x1080 @ 60fps",
+  "note": "Character prompts need the official character art attached as reference images.",
+  "portraits": [
+    {
+      "id": "F03_fanny_echo",
+      "name": "芬妮的回声",
+      "shots": "S13 / S14 / S18（最重要，出场最多）",
+      "file": "public/portraits/F03_fanny_echo.png",
+      "facing": "朝左",
+      "screen_box": "S13 在右侧（x 1080–1840，色带在右）；S14、S18 中被转成**金色点阵字符**做虚影",
+      "optional": false,
+      "gpt_image": {
+        "size": "1024x1536",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "needs_reference": "fanny",
+      "prompt_zh": "以附带的参考图为准，保持角色的脸型、发型、帽子、服装和配饰一致。\n日系二次元角色立绘，三色海报风格：只用纯黑、纯白和一个主色金 #FFC24A，不要其他颜色、不要渐变；\n硬边赛璐璐阴影，大面积纯白高光，阴影是平涂的纯黑块，线条利落；头发分成大块的黑白，带少量主色反光；\n半身或三分之四身构图，人物占画面高度约90%，底部自然裁切；\n透明背景（不能透明就用纯 #00FF00 绿色背景），没有文字、水印、边框、地面阴影或其他人物。\n芬妮朝画面左侧，三分之四侧身，膝盖以上。一手食指指向左前方，另一手把放大镜举到眼前，透过镜片露出一只放大的眼睛。俏皮自信的表情，嘴角上扬，像正在喊\"搜索，解析，确定！\"。剪影要清楚，四肢和身体分开。",
+      "prompt_en": "Match the attached reference images: same face, hairstyle, hat, outfit and accessories.\nAnime character illustration in a three-colour poster style: only pure black, pure white and one accent colour golden yellow #FFC24A; no other colours, no gradients.\nHard-edged cel shading, large pure-white highlight areas, flat solid-black shadow shapes, crisp linework; hair rendered as big black and white masses with a few accent-colour glints.\nHalf-body or three-quarter framing, figure fills ~90% of the frame height, cropped naturally at the bottom.\nTransparent background (or flat pure #00FF00 if transparency is unavailable); no text, no watermark, no frame, no ground shadow, no other characters.\nFanny facing screen left, three-quarter view, knees-up. One index finger points forward-left; the other hand holds a magnifying glass to her eye, one big magnified eye showing through the lens. Playful, confident grin, as if shouting \"Search, parse, confirm!\". Clear silhouette, limbs separated from the body."
+    },
+    {
+      "id": "B01_bonnie_profile",
+      "name": "邦妮主立绘",
+      "shots": "S14",
+      "file": "public/portraits/B01_bonnie_profile.png",
+      "facing": "朝右",
+      "screen_box": "左侧（x 40–680，色带在左）",
+      "optional": false,
+      "gpt_image": {
+        "size": "1024x1536",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "needs_reference": "bonnie",
+      "prompt_zh": "以附带的参考图为准，保持角色的脸型、发型、帽子、服装和配饰一致。\n日系二次元角色立绘，三色海报风格：只用纯黑、纯白和一个主色粉紫 #FF4FA8，不要其他颜色、不要渐变；\n硬边赛璐璐阴影，大面积纯白高光，阴影是平涂的纯黑块，线条利落；头发分成大块的黑白，带少量主色反光；\n半身或三分之四身构图，人物占画面高度约90%，底部自然裁切；\n透明背景（不能透明就用纯 #00FF00 绿色背景），没有文字、水印、边框、地面阴影或其他人物。\n邦妮朝画面右侧，三分之四侧身，膝盖以上。挑衅的坏笑，眼神锐利；一手把一个光亮的毒苹果举到肩膀高度，另一手叉腰，宽檐帽压得略低。站姿稳，略仰视。",
+      "prompt_en": "Match the attached reference images: same face, hairstyle, hat, outfit and accessories.\nAnime character illustration in a three-colour poster style: only pure black, pure white and one accent colour hot pink-violet #FF4FA8; no other colours, no gradients.\nHard-edged cel shading, large pure-white highlight areas, flat solid-black shadow shapes, crisp linework; hair rendered as big black and white masses with a few accent-colour glints.\nHalf-body or three-quarter framing, figure fills ~90% of the frame height, cropped naturally at the bottom.\nTransparent background (or flat pure #00FF00 if transparency is unavailable); no text, no watermark, no frame, no ground shadow, no other characters.\nBonnie facing screen right, three-quarter view, knees-up. Provocative smirk, sharp eyes; one hand raises a glossy poison apple to shoulder height, the other on her hip, wide-brim hat tipped slightly low. Grounded stance, slight low angle."
+    },
+    {
+      "id": "B03_bonnie_throw",
+      "name": "投掷苹果炸弹",
+      "shots": "S15",
+      "file": "public/portraits/B03_bonnie_throw.png",
+      "facing": "朝右",
+      "screen_box": "左下（x 40–600，y 400–1040，色带在左）；画面上方是 PERMISSION / DENIED 大字，**人物头顶不要贴着画布上沿**",
+      "optional": false,
+      "gpt_image": {
+        "size": "1024x1536",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "needs_reference": "bonnie",
+      "prompt_zh": "以附带的参考图为准，保持角色的脸型、发型、帽子、服装和配饰一致。\n日系二次元角色立绘，三色海报风格：只用纯黑、纯白和一个主色粉紫 #FF4FA8，不要其他颜色、不要渐变；\n硬边赛璐璐阴影，大面积纯白高光，阴影是平涂的纯黑块，线条利落；头发分成大块的黑白，带少量主色反光；\n半身或三分之四身构图，人物占画面高度约90%，底部自然裁切；\n透明背景（不能透明就用纯 #00FF00 绿色背景），没有文字、水印、边框、地面阴影或其他人物。\n邦妮朝画面右侧刚刚掷出一枚苹果炸弹：投掷手臂向前伸直，身体前倾，衣摆甩起，另一只手还握着一个备用的苹果。狠劲十足的笑。动作线清楚，剪影夸张。人物头顶上方留出约15%空白。",
+      "prompt_en": "Match the attached reference images: same face, hairstyle, hat, outfit and accessories.\nAnime character illustration in a three-colour poster style: only pure black, pure white and one accent colour hot pink-violet #FF4FA8; no other colours, no gradients.\nHard-edged cel shading, large pure-white highlight areas, flat solid-black shadow shapes, crisp linework; hair rendered as big black and white masses with a few accent-colour glints.\nHalf-body or three-quarter framing, figure fills ~90% of the frame height, cropped naturally at the bottom.\nTransparent background (or flat pure #00FF00 if transparency is unavailable); no text, no watermark, no frame, no ground shadow, no other characters.\nBonnie having just thrown an apple bomb toward screen right: throwing arm fully extended, torso leaning in, hem flung back, a spare apple in her other hand. Fierce grin. Clear line of action, exaggerated silhouette. Leave ~15% empty space above her head."
+    },
+    {
+      "id": "B04_bonnie_reach",
+      "name": "邦妮伸手",
+      "shots": "S19",
+      "file": "public/portraits/B04_bonnie_reach.png",
+      "facing": "朝右",
+      "screen_box": "左侧（x 140–880，色带在左），手要伸向画面中线",
+      "optional": false,
+      "gpt_image": {
+        "size": "1024x1536",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "needs_reference": "bonnie",
+      "prompt_zh": "以附带的参考图为准，保持角色的脸型、发型、帽子、服装和配饰一致。\n日系二次元角色立绘，三色海报风格：只用纯黑、纯白和一个主色粉紫 #FF4FA8，不要其他颜色、不要渐变；\n硬边赛璐璐阴影，大面积纯白高光，阴影是平涂的纯黑块，线条利落；头发分成大块的黑白，带少量主色反光；\n半身或三分之四身构图，人物占画面高度约90%，底部自然裁切；\n透明背景（不能透明就用纯 #00FF00 绿色背景），没有文字、水印、边框、地面阴影或其他人物。\n邦妮纯侧面朝向画面右侧，膝盖以上。手臂向右前方完全伸出，五指张开，像要碰到一道看不见的屏幕。身体前倾，表情是压着情绪的执着，嘴唇微抿。头发和衣角被风吹向后方。伸出的手尽量靠近画布右边缘。",
+      "prompt_en": "Match the attached reference images: same face, hairstyle, hat, outfit and accessories.\nAnime character illustration in a three-colour poster style: only pure black, pure white and one accent colour hot pink-violet #FF4FA8; no other colours, no gradients.\nHard-edged cel shading, large pure-white highlight areas, flat solid-black shadow shapes, crisp linework; hair rendered as big black and white masses with a few accent-colour glints.\nHalf-body or three-quarter framing, figure fills ~90% of the frame height, cropped naturally at the bottom.\nTransparent background (or flat pure #00FF00 if transparency is unavailable); no text, no watermark, no frame, no ground shadow, no other characters.\nBonnie in pure side profile facing screen right, knees-up. Arm fully extended forward to the right, fingers open, as if touching an invisible screen. Leaning in; restrained, determined expression, lips pressed. Hair and hem blown back. Her outstretched hand reaches close to the right edge of the canvas."
+    },
+    {
+      "id": "F04_fanny_reach",
+      "name": "芬妮伸手",
+      "shots": "S19",
+      "file": "public/portraits/F04_fanny_reach.png",
+      "facing": "朝左",
+      "screen_box": "右侧（x 1040–1780，色带在右），和 B04 左右对称",
+      "optional": false,
+      "gpt_image": {
+        "size": "1024x1536",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "needs_reference": "fanny",
+      "prompt_zh": "以附带的参考图为准，保持角色的脸型、发型、帽子、服装和配饰一致。\n日系二次元角色立绘，三色海报风格：只用纯黑、纯白和一个主色金 #FFC24A，不要其他颜色、不要渐变；\n硬边赛璐璐阴影，大面积纯白高光，阴影是平涂的纯黑块，线条利落；头发分成大块的黑白，带少量主色反光；\n半身或三分之四身构图，人物占画面高度约90%，底部自然裁切；\n透明背景（不能透明就用纯 #00FF00 绿色背景），没有文字、水印、边框、地面阴影或其他人物。\n芬妮纯侧面朝向画面左侧，膝盖以上。手臂向左前方伸出，五指张开，指尖靠近画布左边缘。表情柔和，微微惊讶，眼睛睁大。头发和衣摆轻轻漂浮，像在失重的数字空间里。",
+      "prompt_en": "Match the attached reference images: same face, hairstyle, hat, outfit and accessories.\nAnime character illustration in a three-colour poster style: only pure black, pure white and one accent colour golden yellow #FFC24A; no other colours, no gradients.\nHard-edged cel shading, large pure-white highlight areas, flat solid-black shadow shapes, crisp linework; hair rendered as big black and white masses with a few accent-colour glints.\nHalf-body or three-quarter framing, figure fills ~90% of the frame height, cropped naturally at the bottom.\nTransparent background (or flat pure #00FF00 if transparency is unavailable); no text, no watermark, no frame, no ground shadow, no other characters.\nFanny in pure side profile facing screen left, knees-up. Arm extended forward to the left, fingers open, fingertips near the left edge of the canvas. Soft, slightly surprised expression, eyes wide. Hair and hem gently floating as if weightless in a digital space."
+    },
+    {
+      "id": "B05_bonnie_magnifier",
+      "name": "握着放大镜",
+      "shots": "S20",
+      "file": "public/portraits/B05_bonnie_magnifier.png",
+      "facing": "朝右",
+      "screen_box": "左侧（x 160–840，色带在左），白闪之后的第一个画面",
+      "optional": false,
+      "gpt_image": {
+        "size": "1024x1536",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "needs_reference": "bonnie",
+      "prompt_zh": "以附带的参考图为准，保持角色的脸型、发型、帽子、服装和配饰一致。\n日系二次元角色立绘，三色海报风格：只用纯黑、纯白和一个主色粉紫 #FF4FA8，不要其他颜色、不要渐变；\n硬边赛璐璐阴影，大面积纯白高光，阴影是平涂的纯黑块，线条利落；头发分成大块的黑白，带少量主色反光；\n半身或三分之四身构图，人物占画面高度约90%，底部自然裁切；\n透明背景（不能透明就用纯 #00FF00 绿色背景），没有文字、水印、边框、地面阴影或其他人物。\n邦妮三分之四侧身朝右，腰部以上。低着头，双手把一把放大镜（芬妮的）捧在胸前。表情安静，有点无奈又带一点笑意。整体比其他几张更安静，粉紫色只用在放大镜的镜片反光和眼睛上。",
+      "prompt_en": "Match the attached reference images: same face, hairstyle, hat, outfit and accessories.\nAnime character illustration in a three-colour poster style: only pure black, pure white and one accent colour hot pink-violet #FF4FA8; no other colours, no gradients.\nHard-edged cel shading, large pure-white highlight areas, flat solid-black shadow shapes, crisp linework; hair rendered as big black and white masses with a few accent-colour glints.\nHalf-body or three-quarter framing, figure fills ~90% of the frame height, cropped naturally at the bottom.\nTransparent background (or flat pure #00FF00 if transparency is unavailable); no text, no watermark, no frame, no ground shadow, no other characters.\nBonnie three-quarter view facing right, waist-up. Head lowered, holding a magnifying glass (Fanny's) against her chest with both hands. Quiet, wry, slightly fond half-smile. Calmer than the other portraits; use the accent only on the lens glint and her eyes."
+    },
+    {
+      "id": "F02_fanny_lastphoto",
+      "name": "最后一张照片（可选）",
+      "shots": "S11（CCFL 液晶段，会被转成字符）",
+      "file": "public/portraits/F02_fanny_lastphoto.png",
+      "facing": null,
+      "screen_box": null,
+      "optional": true,
+      "gpt_image": {
+        "size": "1024x1536",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "needs_reference": "fanny",
+      "prompt_zh": "以附带的参考图为准，保持角色的脸型、发型、帽子、服装和配饰一致。\n日系二次元角色立绘，三色海报风格：只用纯黑、纯白和一个主色金 #FFC24A，不要其他颜色、不要渐变；\n硬边赛璐璐阴影，大面积纯白高光，阴影是平涂的纯黑块，线条利落；头发分成大块的黑白，带少量主色反光；\n半身或三分之四身构图，人物占画面高度约90%，底部自然裁切；\n透明背景（不能透明就用纯 #00FF00 绿色背景），没有文字、水印、边框、地面阴影或其他人物。\n芬妮的三分之四背影，全身，站着仰望画面右上方的夜空，一手把放大镜举向天空，相机背带挂在肩上。头发和衣摆被风吹起。剪影清楚。",
+      "prompt_en": "Match the attached reference images: same face, hairstyle, hat, outfit and accessories.\nAnime character illustration in a three-colour poster style: only pure black, pure white and one accent colour golden yellow #FFC24A; no other colours, no gradients.\nHard-edged cel shading, large pure-white highlight areas, flat solid-black shadow shapes, crisp linework; hair rendered as big black and white masses with a few accent-colour glints.\nHalf-body or three-quarter framing, figure fills ~90% of the frame height, cropped naturally at the bottom.\nTransparent background (or flat pure #00FF00 if transparency is unavailable); no text, no watermark, no frame, no ground shadow, no other characters.\nFanny seen three-quarters from behind, full body, looking up at the upper-right night sky, one hand raising a magnifying glass toward it, a camera strap over her shoulder. Hair and hem lifted by wind. Clean silhouette."
+    },
+    {
+      "id": "P03_strawberry_cake",
+      "name": "草莓蛋糕（可选道具）",
+      "shots": "S20",
+      "file": "public/portraits/P03_strawberry_cake.png",
+      "facing": null,
+      "screen_box": null,
+      "optional": true,
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "needs_reference": null,
+      "prompt_zh": "一个圆形草莓奶油蛋糕，侧面略俯视，顶上一圈整颗草莓，正中插着一根点亮的蜡烛。三色海报风格：黑、白、金 #FFC24A，草莓用纯黑和白画出形状，不用红色。透明背景，没有文字。1024×1024。"
+    }
+  ],
+  "forms": [
+    {
+      "id": "form_table",
+      "file": "public/forms/table.png",
+      "when": "5 / 0:40.9",
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "prompt_zh": "一张小木桌，**一条腿明显比别的短**，桌面微微倾斜。单个物体的扁平插画，居中，占画面约75%。三色海报风格：只用纯黑、纯白和青色 #4FC3FF，不要其他颜色、不要渐变；\n粗而干净的轮廓线，大块平涂，硬边阴影；造型简单、一眼能认出；\n物体身上带一个小小的\"芬妮特征\"：桌面一角放着一顶小小的白色帽子，配棕褐色帽带；透明背景，没有文字、水印、边框或地面阴影。",
+      "prompt_en": "Flat illustration of a single object, centred, filling ~75% of the frame. Three-colour poster style: only pure black, pure white and cyan #4FC3FF; no other colours, no gradients.\nBold clean outlines, large flat fills, hard-edged shadows; simple, instantly recognisable shape.\nThe object carries one small \"Fanny\" detail: a tiny white hat with a tan band resting on one corner. Transparent background; no text, no watermark, no frame, no ground shadow. Object: 一张小木桌，**一条腿明显比别的短**，桌面微微倾斜"
+    },
+    {
+      "id": "form_eggplant",
+      "file": "public/forms/eggplant.png",
+      "when": "9 / 0:54.5",
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "prompt_zh": "一根茄子，表皮上有几道细细的划痕。单个物体的扁平插画，居中，占画面约75%。三色海报风格：只用纯黑、纯白和青色 #4FC3FF，不要其他颜色、不要渐变；\n粗而干净的轮廓线，大块平涂，硬边阴影；造型简单、一眼能认出；\n物体身上带一个小小的\"芬妮特征\"：茄子蒂上系着一个小红领结（三色版里画成黑白条纹）· *a small ribbon bow tied at the stem*；透明背景，没有文字、水印、边框或地面阴影。",
+      "prompt_en": "Flat illustration of a single object, centred, filling ~75% of the frame. Three-colour poster style: only pure black, pure white and cyan #4FC3FF; no other colours, no gradients.\nBold clean outlines, large flat fills, hard-edged shadows; simple, instantly recognisable shape.\nThe object carries one small \"Fanny\" detail: . Transparent background; no text, no watermark, no frame, no ground shadow. Object: 一根茄子，表皮上有几道细细的划痕"
+    },
+    {
+      "id": "form_cat",
+      "file": "public/forms/cat.png",
+      "when": "14 / 1:22.9",
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "prompt_zh": "一只暹罗色小猫，脸和耳朵颜色深，炸毛、哈气，尾巴竖起。单个物体的扁平插画，居中，占画面约75%。三色海报风格：只用纯黑、纯白和青色 #4FC3FF，不要其他颜色、不要渐变；\n粗而干净的轮廓线，大块平涂，硬边阴影；造型简单、一眼能认出；\n物体身上带一个小小的\"芬妮特征\"：戴着一顶歪掉的小白帽；透明背景，没有文字、水印、边框或地面阴影。",
+      "prompt_en": "Flat illustration of a single object, centred, filling ~75% of the frame. Three-colour poster style: only pure black, pure white and cyan #4FC3FF; no other colours, no gradients.\nBold clean outlines, large flat fills, hard-edged shadows; simple, instantly recognisable shape.\nThe object carries one small \"Fanny\" detail: wearing a tilted tiny white hat. Transparent background; no text, no watermark, no frame, no ground shadow. Object: 一只暹罗色小猫，脸和耳朵颜色深，炸毛、哈气，尾巴竖起"
+    },
+    {
+      "id": "form_steak",
+      "file": "public/forms/steak.png",
+      "when": "20 / 1:36.6",
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "prompt_zh": "一块菲力牛排，上面浇着蘑菇酱，切面三分熟。单个物体的扁平插画，居中，占画面约75%。三色海报风格：只用纯黑、纯白和青色 #4FC3FF，不要其他颜色、不要渐变；\n粗而干净的轮廓线，大块平涂，硬边阴影；造型简单、一眼能认出；\n物体身上带一个小小的\"芬妮特征\"：牛排旁插着一面写着 007 的小牙签旗；透明背景，没有文字、水印、边框或地面阴影。",
+      "prompt_en": "Flat illustration of a single object, centred, filling ~75% of the frame. Three-colour poster style: only pure black, pure white and cyan #4FC3FF; no other colours, no gradients.\nBold clean outlines, large flat fills, hard-edged shadows; simple, instantly recognisable shape.\nThe object carries one small \"Fanny\" detail: a toothpick flag marked \"007\" stuck in it. Transparent background; no text, no watermark, no frame, no ground shadow. Object: 一块菲力牛排，上面浇着蘑菇酱，切面三分熟"
+    },
+    {
+      "id": "form_flower",
+      "file": "public/forms/flower.png",
+      "when": "24、60 / 1:49.7、3:53.8",
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "prompt_zh": "一朵很纤细的花，只开了一半，茎很长。单个物体的扁平插画，居中，占画面约75%。三色海报风格：只用纯黑、纯白和青色 #4FC3FF，不要其他颜色、不要渐变；\n粗而干净的轮廓线，大块平涂，硬边阴影；造型简单、一眼能认出；\n物体身上带一个小小的\"芬妮特征\"：花心是一枚小放大镜镜片；透明背景，没有文字、水印、边框或地面阴影。",
+      "prompt_en": "Flat illustration of a single object, centred, filling ~75% of the frame. Three-colour poster style: only pure black, pure white and cyan #4FC3FF; no other colours, no gradients.\nBold clean outlines, large flat fills, hard-edged shadows; simple, instantly recognisable shape.\nThe object carries one small \"Fanny\" detail: its centre is a tiny magnifying-glass lens. Transparent background; no text, no watermark, no frame, no ground shadow. Object: 一朵很纤细的花，只开了一半，茎很长"
+    },
+    {
+      "id": "form_piece",
+      "file": "public/forms/piece.png",
+      "when": "33 / 2:31.8",
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "prompt_zh": "一块拼图碎片，边缘破损，**看不出属于哪幅图**。单个物体的扁平插画，居中，占画面约75%。三色海报风格：只用纯黑、纯白和青色 #4FC3FF，不要其他颜色、不要渐变；\n粗而干净的轮廓线，大块平涂，硬边阴影；造型简单、一眼能认出；\n物体身上带一个小小的\"芬妮特征\"：碎片上露出一小块金色头发的图案（三色版里画成青色）· *a sliver of blonde hair printed on it*；透明背景，没有文字、水印、边框或地面阴影。",
+      "prompt_en": "Flat illustration of a single object, centred, filling ~75% of the frame. Three-colour poster style: only pure black, pure white and cyan #4FC3FF; no other colours, no gradients.\nBold clean outlines, large flat fills, hard-edged shadows; simple, instantly recognisable shape.\nThe object carries one small \"Fanny\" detail: . Transparent background; no text, no watermark, no frame, no ground shadow. Object: 一块拼图碎片，边缘破损，**看不出属于哪幅图**"
+    },
+    {
+      "id": "form_dog",
+      "file": "public/forms/dog.png",
+      "when": "69 / 4:35.8",
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "prompt_zh": "一只小狗，正在大声叫。单个物体的扁平插画，居中，占画面约75%。三色海报风格：只用纯黑、纯白和青色 #4FC3FF，不要其他颜色、不要渐变；\n粗而干净的轮廓线，大块平涂，硬边阴影；造型简单、一眼能认出；\n物体身上带一个小小的\"芬妮特征\"：脖子上挂着一个相机挂绳；透明背景，没有文字、水印、边框或地面阴影。",
+      "prompt_en": "Flat illustration of a single object, centred, filling ~75% of the frame. Three-colour poster style: only pure black, pure white and cyan #4FC3FF; no other colours, no gradients.\nBold clean outlines, large flat fills, hard-edged shadows; simple, instantly recognisable shape.\nThe object carries one small \"Fanny\" detail: a camera strap around its neck. Transparent background; no text, no watermark, no frame, no ground shadow. Object: 一只小狗，正在大声叫"
+    },
+    {
+      "id": "form_tomato",
+      "file": "public/forms/tomato.png",
+      "when": "72 / 4:45.6",
+      "gpt_image": {
+        "size": "1024x1024",
+        "background": "transparent",
+        "quality": "high",
+        "output_format": "png"
+      },
+      "prompt_zh": "一颗多汁的番茄，切开一半，汁水溅出。单个物体的扁平插画，居中，占画面约75%。三色海报风格：只用纯黑、纯白和青色 #4FC3FF，不要其他颜色、不要渐变；\n粗而干净的轮廓线，大块平涂，硬边阴影；造型简单、一眼能认出；\n物体身上带一个小小的\"芬妮特征\"：番茄蒂摆成一个\"007\"的形状；透明背景，没有文字、水印、边框或地面阴影。",
+      "prompt_en": "Flat illustration of a single object, centred, filling ~75% of the frame. Three-colour poster style: only pure black, pure white and cyan #4FC3FF; no other colours, no gradients.\nBold clean outlines, large flat fills, hard-edged shadows; simple, instantly recognisable shape.\nThe object carries one small \"Fanny\" detail: its stem leaves arranged like \"007\". Transparent background; no text, no watermark, no frame, no ground shadow. Object: 一颗多汁的番茄，切开一半，汁水溅出"
+    }
+  ],
+  "covers": [
+    {
+      "id": "cover_16x9",
+      "file": "(cover) 1920x1080",
+      "gpt_image": {
+        "size": "1536x1024",
+        "quality": "high"
+      },
+      "needs_reference": "bonnie+fanny",
+      "prompt_zh": "以参考图为准，保持两个角色的长相、帽子和服装一致。横版16:9主视觉。\n画面正中一道竖直的发光细线，把画面分成两个\"时代\"：左半边是1983年琥珀色单色CRT显示器的质感（扫描线、屏幕曲面、橙黄色字符、粗颗粒），\n右半边是2026年OLED屏的质感（纯黑底、锐利的白色和金色、干净的界面线条）。\n左侧：邦妮（银白头发、深灰宽檐帽、粉紫眼睛）侧身朝右伸手，另一只手里攥着一个苹果；她身上被琥珀色的字符和像素点覆盖。\n右侧：芬妮（金发、白色帽子带棕褐色帽带、蓝眼睛、藏青外套、红领结）侧身朝左伸手，一只手拿着放大镜；她的轮廓边缘正在散成金色的点阵字符。\n两人的指尖隔着发光线只差一点点。背景里飘着代码碎片和搜索框。\n三色海报式人物上色：黑、白各加角色自己的主色；整体冷暗，只有粉紫和金两处高饱和色。\n画面上方留出约20%的空白放标题，不要画任何文字。",
+      "prompt_en": "Match the reference images for both characters. 16:9 key visual.\nA thin vertical line of light splits the frame into two eras: the left half looks like a 1983 amber monochrome CRT (scanlines, curved glass, orange-amber characters, coarse grain); the right half looks like a 2026 OLED screen (true black, crisp white and gold, clean interface hairlines).\nLeft: Bonnie (silver-white hair, dark grey wide-brim hat, pink-violet eyes) in profile facing right, reaching out, an apple in her other hand, overlaid with amber characters and pixels.\nRight: Fanny (blonde, white hat with a tan band, blue eyes, navy coat, red ribbon) in profile facing left, reaching out, a magnifying glass in her other hand, her outline dissolving into gold dot-matrix characters.\nTheir fingertips almost touch across the line. Floating code fragments and a search bar in the background.\nCharacters in a three-colour poster style (black, white and each character's own accent). Cold, dark overall; pink-violet and gold are the only saturated colours.\nLeave ~20% empty space at the top for a title. No text anywhere."
+    },
+    {
+      "id": "poster_9x16",
+      "file": "(poster) 1080x1920",
+      "gpt_image": {
+        "size": "1024x1536",
+        "quality": "high"
+      },
+      "needs_reference": "bonnie+fanny",
+      "prompt_zh": "以参考图为准。竖版海报：上半部分是一台老式琥珀色CRT显示器，屏幕里映出邦妮的像素小人；\n下半部分是一块纯黑OLED屏，屏上是芬妮的三色海报风立绘，她的轮廓正在散成金色点阵。\n两块屏幕之间是一条搜索框，里面的输入光标在闪。冷暗色调，只有粉紫和金两处高饱和色。不要画任何文字。"
+    }
+  ],
+  "bezels": [
+    {
+      "id": "bezel_1983",
+      "era": "1983 琥珀 CRT",
+      "screen_rect_px": "134,70,1651,924 r84",
+      "gpt_image": {
+        "size": "1536x1024",
+        "quality": "high"
+      },
+      "prompt_zh": "正面平视的显示器外壳，纯正面、无透视，外壳填满整个画面，屏幕区域是纯 #00FF00 绿色（方便抠图）；\n写实但略带插画感的产品图，柔和的棚拍光，机壳表面有细微的使用痕迹；没有文字、没有品牌标志。米灰色塑料机壳，边框很厚，屏幕玻璃明显鼓起，右下角一个小小的绿色电源灯",
+      "prompt_en": "Straight-on front view of a monitor bezel, no perspective, the bezel fills the whole frame, the screen area is flat pure #00FF00 for keying; realistic product-shot look with a slightly illustrated finish, soft studio light, subtle wear on the casing; no text, no logos. beige-grey plastic, very thick bezel, visibly bulging glass, a small green power LED bottom-right"
+    },
+    {
+      "id": "bezel_1987",
+      "era": "1987 EGA CRT",
+      "screen_rect_px": "115,60,1690,946 r69",
+      "gpt_image": {
+        "size": "1536x1024",
+        "quality": "high"
+      },
+      "prompt_zh": "正面平视的显示器外壳，纯正面、无透视，外壳填满整个画面，屏幕区域是纯 #00FF00 绿色（方便抠图）；\n写实但略带插画感的产品图，柔和的棚拍光，机壳表面有细微的使用痕迹；没有文字、没有品牌标志。浅灰色机壳，边框稍薄，底部有一排旋钮",
+      "prompt_en": "Straight-on front view of a monitor bezel, no perspective, the bezel fills the whole frame, the screen area is flat pure #00FF00 for keying; realistic product-shot look with a slightly illustrated finish, soft studio light, subtle wear on the casing; no text, no logos. light grey casing, slightly thinner bezel, a row of knobs along the bottom"
+    },
+    {
+      "id": "bezel_1994",
+      "era": "1994 特丽珑 CRT",
+      "screen_rect_px": "86,45,1747,979 r45",
+      "gpt_image": {
+        "size": "1536x1024",
+        "quality": "high"
+      },
+      "prompt_zh": "正面平视的显示器外壳，纯正面、无透视，外壳填满整个画面，屏幕区域是纯 #00FF00 绿色（方便抠图）；\n写实但略带插画感的产品图，柔和的棚拍光，机壳表面有细微的使用痕迹；没有文字、没有品牌标志。深灰色机壳，屏幕几乎是平的，底部一条细长的品牌条（不写字）",
+      "prompt_en": "Straight-on front view of a monitor bezel, no perspective, the bezel fills the whole frame, the screen area is flat pure #00FF00 for keying; realistic product-shot look with a slightly illustrated finish, soft studio light, subtle wear on the casing; no text, no logos. dark grey casing, almost flat screen, a slim blank badge strip at the bottom"
+    },
+    {
+      "id": "bezel_2004",
+      "era": "2004 CCFL 液晶",
+      "screen_rect_px": "58,30,1805,1013 r9",
+      "gpt_image": {
+        "size": "1536x1024",
+        "quality": "high"
+      },
+      "prompt_zh": "正面平视的显示器外壳，纯正面、无透视，外壳填满整个画面，屏幕区域是纯 #00FF00 绿色（方便抠图）；\n写实但略带插画感的产品图，柔和的棚拍光，机壳表面有细微的使用痕迹；没有文字、没有品牌标志。黑色亮面塑料窄边框，底部正中一个小小的下巴",
+      "prompt_en": "Straight-on front view of a monitor bezel, no perspective, the bezel fills the whole frame, the screen area is flat pure #00FF00 for keying; realistic product-shot look with a slightly illustrated finish, soft studio light, subtle wear on the casing; no text, no logos. glossy black plastic, narrow bezel, a small chin at the bottom centre"
+    }
+  ]
+}

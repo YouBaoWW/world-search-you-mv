@@ -1,0 +1,56 @@
+{
+  "mode": "built-in image_gen",
+  "date": "2026-10-28",
+  "reference_sources": [
+    {
+      "character": "Bonnie",
+      "page": "https://wiki.biligame.com/starengine/邦妮",
+      "image": "https://patchwiki.biligame.com/images/starengine/a/a0/d3lmz90ko652yj45vo5aspa0tsief0j.png",
+      "local": "references/bonnie_official.png"
+    },
+    {
+      "character": "Fanny",
+      "page": "https://wiki.biligame.com/starengine/芬妮",
+      "image": "https://patchwiki.biligame.com/images/starengine/8/84/kxxa5zr3gemnxp7b6rfgfbtzw3o2gai.png",
+      "local": "references/fanny_official.png"
+    }
+  ],
+  "requests": [
+    {
+      "slot": "F03_fanny_echo",
+      "output": "public/portraits/F03_fanny_echo.png",
+      "transparent_background": true,
+      "prompt": "See 01_立绘_GPT-Image.md, global style and F03_fanny_echo slot. Official reference appearance preserved; black/white plus #FFC24A poster palette. Transparent PNG, 1024x1536, clean silhouette, no text, panel or baked effects. Fanny faces left, points left and holds magnifying glass to her eye, playful confident expression."
+    },
+    {
+      "slot": "B01_bonnie_profile",
+      "output": "public/portraits/B01_bonnie_profile.png",
+      "transparent_background": true,
+      "prompt": "See 01_立绘_GPT-Image.md, global style and B01_bonnie_profile slot. Official reference appearance preserved; black/white plus #FF4FA8 poster palette. Transparent PNG, 1024x1536, clean silhouette, no text, panel or baked effects. Bonnie faces right in three-quarter view, poison apple at shoulder height, other hand on hip, provocative smirk."
+    },
+    {
+      "slot": "B03_bonnie_throw",
+      "output": "public/portraits/B03_bonnie_throw.png",
+      "transparent_background": true,
+      "prompt": "Create ONE polished anime character cutout for the existing music-video project. Image1 is the official appearance reference; image2 gives the graphic poster art direction. Preserve exact recognizable face, hair, cap, coat, necktie, gloves and character identity from the official reference. Crisp hard-edge cel art, bold flat black shadow shapes and pure white highlights. STRICT THREE-COLOR PALETTE ONLY: black #000000, white #FFFFFF and hot pink-violet #FF4FA8. No skin beige, gray shading, gradients or any other hue. Portrait canvas 1024x1536. Truly transparent alpha outside the silhouette, fully clear empty margins: NO smoky haze, NO halo, NO background color, NO panel, no words, no logos/watermarks, no particles, glow, scanlines, speed lines, or blur. Keep hat and hands entirely within the image. Do not crop fingertips. The renderer adds all backing bands and effects. Bonnie is silver-white-haired with a dark peaked detective cap. Full-body dynamic pose directed SCREEN RIGHT: she has just thrown a poison apple bomb to the right, throwing arm fully extended, fingers naturally opened after release, torso lunges forward, coat tails flare behind, spare apple in other gloved hand. Fierce mischievous grin. Entire silhouette readable, legs inside image, leave15% empty space above hat. No floating apple besides the spare held apple, no background."
+    },
+    {
+      "slot": "B04_bonnie_reach",
+      "output": "public/portraits/B04_bonnie_reach.png",
+      "transparent_background": true,
+      "prompt": "Create ONE polished anime character cutout for the existing music-video project. Image1 is the official appearance reference; image2 gives the graphic poster art direction. Preserve exact recognizable face, hair, cap, coat, necktie, gloves and character identity from the official reference. Crisp hard-edge cel art, bold flat black shadow shapes and pure white highlights. STRICT THREE-COLOR PALETTE ONLY: black #000000, white #FFFFFF and hot pink-violet #FF4FA8. No skin beige, gray shading, gradients or any other hue. Portrait canvas 1024x1536. Truly transparent alpha outside the silhouette, fully clear empty margins: NO smoky haze, NO halo, NO background color, NO panel, no words, no logos/watermarks, no particles, glow, scanlines, speed lines, or blur. Keep hat and hands entirely within the image. Do not crop fingertips. The renderer adds all backing bands and effects. Bonnie with silver-white hair and dark peaked detective cap, knees-up PURE SIDE PROFILE facing SCREEN RIGHT. One arm fully reaches rightward at chest height, open hand and five natural fingers near the right edge as if touching an invisible vertical screen. Leaning forward, restrained longing and determined expression, pressed lips, hair and coat tails trailing left. Keep outstretched hand in frame with safe margin. She will be on LEFT HALF of a shot reaching toward center. No object in reaching hand. Composition supports a matching person reaching back from the opposite side."
+    },
+    {
+      "slot": "F04_fanny_reach",
+      "output": "public/portraits/F04_fanny_reach.png",
+      "transparent_background": true,
+      "prompt": "Create ONE polished anime character cutout for the existing music-video project. Image1 is the official appearance reference; image2 gives the graphic poster art direction. Preserve exact recognizable face, hair, cap, coat, necktie, gloves and character identity from the official reference. Crisp hard-edge cel art, bold flat black shadow shapes and pure white highlights. STRICT THREE-COLOR PALETTE ONLY: black #000000, white #FFFFFF and golden yellow #FFC24A. No skin beige, gray shading, gradients or any other hue. Portrait canvas 1024x1536. Truly transparent alpha outside the silhouette, fully clear empty margins: NO smoky haze, NO halo, NO background color, NO panel, no words, no logos/watermarks, no particles, glow, scanlines, speed lines, or blur. Keep hat and hands entirely within the image. Do not crop fingertips. The renderer adds all backing bands and effects. Fanny with the official side ponytail and white peaked detective cap, knees-up PURE SIDE PROFILE facing SCREEN LEFT. One arm extends forward-left at chest height, open hand and five natural fingers near the left image edge as if touching an invisible vertical screen. Soft slightly surprised expression, eyes wide, gentle recognition. Hair and coat tails float to the right in weightless digital space. She will be on RIGHT HALF of a shot reaching toward center to a matching Bonnie on left. Keep hand safely in frame, no object in reaching hand, no other person."
+    },
+    {
+      "slot": "B05_bonnie_magnifier",
+      "output": "public/portraits/B05_bonnie_magnifier.png",
+      "transparent_background": true,
+      "prompt": "Create ONE polished anime character cutout for the existing music-video project. Image1 is the official appearance reference; image2 gives the graphic poster art direction. Preserve exact recognizable face, hair, cap, coat, necktie, gloves and character identity from the official reference. Crisp hard-edge cel art, bold flat black shadow shapes and pure white highlights. STRICT THREE-COLOR PALETTE ONLY: black #000000, white #FFFFFF and hot pink-violet #FF4FA8. No skin beige, gray shading, gradients or any other hue. Portrait canvas 1024x1536. Truly transparent alpha outside the silhouette, fully clear empty margins: NO smoky haze, NO halo, NO background color, NO panel, no words, no logos/watermarks, no particles, glow, scanlines, speed lines, or blur. Keep hat and hands entirely within the image. Do not crop fingertips. The renderer adds all backing bands and effects. Bonnie with official silver-white hair and dark peaked detective cap, waist-up THREE-QUARTER PROFILE facing SCREEN RIGHT. Quiet emotional pose: head lowered, both gloved hands gently cradle Fanny's magnifying glass against her chest. Understated tender wry half-smile, calm shoulders, gaze rests on the magnifying glass. Only use pink accent for eyes, restrained coat details and small lens glint. Black and white dominate this calm portrait. Hat completely visible, waist naturally cropped at bottom, clear human hand anatomy, magnifier ring and handle correct."
+    }
+  ]
+}
