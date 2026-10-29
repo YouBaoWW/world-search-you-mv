@@ -1,0 +1,668 @@
+[
+ {
+  "n": 1,
+  "time": 14.36,
+  "end": 21.18,
+  "en": "Side by side, the lovelier goes up",
+  "zh": "并肩而立，更可爱的那个向上升起",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 2,
+  "time": 21.18,
+  "end": 28.05,
+  "en": "Reach for the top, till the bubble pops",
+  "zh": "向顶端伸手，直到气泡破裂",
+  "words": 8,
+  "placeholder": false
+ },
+ {
+  "n": 3,
+  "time": 28.05,
+  "end": 35.05,
+  "en": "Take a memory, insert to the past",
+  "zh": "取一段记忆，嵌进过去",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 4,
+  "time": 35.05,
+  "end": 39.86,
+  "en": "Which one is the sweetest? Save it before the last",
+  "zh": "哪段最甜蜜？赶在结束前把它保存",
+  "words": 10,
+  "placeholder": false
+ },
+ {
+  "n": 5,
+  "time": 40.9,
+  "end": 44.14,
+  "en": "If you turn into a table",
+  "zh": "如果你变成一张桌子",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 6,
+  "time": 44.14,
+  "end": 47.71,
+  "en": "You must be at the height of my elbows",
+  "zh": "一定刚好与我的手肘齐高",
+  "words": 9,
+  "placeholder": false
+ },
+ {
+  "n": 7,
+  "time": 47.71,
+  "end": 51,
+  "en": "Odd stubby leg makes you wobbly",
+  "zh": "古怪的短桌腿让你摇摇晃晃",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 8,
+  "time": 51,
+  "end": 54.46,
+  "en": "You're the only perfect table for me",
+  "zh": "你就是我唯一完美的桌子",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 9,
+  "time": 54.46,
+  "end": 57.83,
+  "en": "If you turn into an eggplant",
+  "zh": "如果你变成一根茄子",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 10,
+  "time": 57.83,
+  "end": 61.22,
+  "en": "You'll be my purple friend",
+  "zh": "你会是我的紫色朋友",
+  "words": 5,
+  "placeholder": false
+ },
+ {
+  "n": 11,
+  "time": 61.22,
+  "end": 64.66,
+  "en": "Scratchy nail marks on your body",
+  "zh": "身上留着指甲划过的痕迹",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 12,
+  "time": 64.66,
+  "end": 68.17,
+  "en": "You're the only perfect eggplant for me",
+  "zh": "你就是我唯一完美的茄子",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 13,
+  "time": 68.17,
+  "end": 70.91,
+  "en": "I'm searching",
+  "zh": "我在寻找",
+  "words": 2,
+  "placeholder": false
+ },
+ {
+  "n": 14,
+  "time": 82.89,
+  "end": 85.49,
+  "en": "If you're a cat",
+  "zh": "如果你是一只猫",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 15,
+  "time": 85.49,
+  "end": 87.46,
+  "en": "A little kitten",
+  "zh": "一只小小的猫咪",
+  "words": 3,
+  "placeholder": false
+ },
+ {
+  "n": 16,
+  "time": 87.46,
+  "end": 89.76,
+  "en": "You must be bluepoint",
+  "zh": "你一定是蓝重点色",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 17,
+  "time": 89.76,
+  "end": 92.58,
+  "en": "Meowing a lot",
+  "zh": "总是喵喵叫",
+  "words": 3,
+  "placeholder": false
+ },
+ {
+  "n": 18,
+  "time": 92.58,
+  "end": 94.39,
+  "en": "Hissing a lot",
+  "zh": "总是嘶嘶叫",
+  "words": 3,
+  "placeholder": false
+ },
+ {
+  "n": 19,
+  "time": 94.39,
+  "end": 96.64,
+  "en": "But you never purr",
+  "zh": "却从不发出呼噜声",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 20,
+  "time": 96.64,
+  "end": 99.5,
+  "en": "If you're a steak",
+  "zh": "如果你是一块牛排",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 21,
+  "time": 99.5,
+  "end": 103.75,
+  "en": "A fillet mignon covered in mushroom sauce",
+  "zh": "一块浇着蘑菇酱的菲力牛排",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 22,
+  "time": 103.75,
+  "end": 106.66,
+  "en": "Browned on the outside",
+  "zh": "外层煎得焦香",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 23,
+  "time": 106.66,
+  "end": 109.41,
+  "en": "Medium rare inside",
+  "zh": "内里恰好三分熟",
+  "words": 3,
+  "placeholder": false
+ },
+ {
+  "n": 24,
+  "time": 109.72,
+  "end": 113.15,
+  "en": "If you turn into a flower",
+  "zh": "如果你变成一朵花",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 25,
+  "time": 113.15,
+  "end": 116.6,
+  "en": "You must be the most delicate ever",
+  "zh": "一定是最娇嫩的那一朵",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 26,
+  "time": 116.6,
+  "end": 119.96,
+  "en": "Even if you bloom just occasionally",
+  "zh": "即使你只是偶尔绽放",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 27,
+  "time": 119.96,
+  "end": 123.44,
+  "en": "You're the only perfect flower for me",
+  "zh": "你就是我唯一完美的花",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 28,
+  "time": 123.44,
+  "end": 126.82,
+  "en": "If you turn into a human",
+  "zh": "如果你变成一个人",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 29,
+  "time": 126.82,
+  "end": 130.24,
+  "en": "I'd like all the warmth coming from your hands",
+  "zh": "我想感受你双手传来的所有温暖",
+  "words": 9,
+  "placeholder": false
+ },
+ {
+  "n": 30,
+  "time": 130.24,
+  "end": 133.65,
+  "en": "Bit of stinky breath, with hair that's unruly",
+  "zh": "口气有点臭，头发也乱糟糟",
+  "words": 8,
+  "placeholder": false
+ },
+ {
+  "n": 31,
+  "time": 133.65,
+  "end": 137.09,
+  "en": "You're the only perfect human for me",
+  "zh": "你就是我唯一完美的人",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 32,
+  "time": 137.09,
+  "end": 141.57,
+  "en": "I'm searching",
+  "zh": "我在寻找",
+  "words": 2,
+  "placeholder": false
+ },
+ {
+  "n": 33,
+  "time": 151.84,
+  "end": 154.79,
+  "en": "If you're a piece",
+  "zh": "如果你是一块",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 34,
+  "time": 154.79,
+  "end": 156.42,
+  "en": "A piece of ****",
+  "zh": "一块 ****",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 35,
+  "time": 156.42,
+  "end": 158.85,
+  "en": "You must be… U-Um?",
+  "zh": "那你一定是……呃，嗯？",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 36,
+  "time": 158.85,
+  "end": 161.64,
+  "en": "What? What's it called?",
+  "zh": "什么？那叫什么来着？",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 37,
+  "time": 161.64,
+  "end": 163.66,
+  "en": "What's that word again",
+  "zh": "那个词到底是什么来着",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 38,
+  "time": 163.66,
+  "end": 165.73,
+  "en": "\"Do-o-o-o-ope\"?",
+  "zh": "“令我沉醉”？",
+  "words": 1,
+  "placeholder": false
+ },
+ {
+  "n": 39,
+  "time": 165.73,
+  "end": 168.6,
+  "en": "If you could stay",
+  "zh": "如果你能留下",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 40,
+  "time": 168.6,
+  "end": 170.43,
+  "en": "Stay there where you are",
+  "zh": "留在你现在的地方",
+  "words": 5,
+  "placeholder": false
+ },
+ {
+  "n": 41,
+  "time": 170.43,
+  "end": 172.28,
+  "en": "So again… U-Um?",
+  "zh": "所以，再来一次……呃，嗯？",
+  "words": 3,
+  "placeholder": false
+ },
+ {
+  "n": 42,
+  "time": 172.28,
+  "end": 175.43,
+  "en": "Oh, what? What's it called?",
+  "zh": "哦，什么？那叫什么来着？",
+  "words": 5,
+  "placeholder": false
+ },
+ {
+  "n": 43,
+  "time": 175.43,
+  "end": 177.35,
+  "en": "What's that word again?",
+  "zh": "那个词到底是什么来着？",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 44,
+  "time": 177.35,
+  "end": 179.41,
+  "en": "\"Lo-o-o-ove\"?",
+  "zh": "“爱——”？",
+  "words": 1,
+  "placeholder": false
+ },
+ {
+  "n": 45,
+  "time": 179.47,
+  "end": 180.97,
+  "en": "I'm searching for",
+  "zh": "我在寻找",
+  "words": 3,
+  "placeholder": false
+ },
+ {
+  "n": 46,
+  "time": 180.97,
+  "end": 182.65,
+  "en": "Searching for you everywhere",
+  "zh": "在每个角落寻找你",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 47,
+  "time": 182.65,
+  "end": 186.43,
+  "en": "I can see you in most everything",
+  "zh": "几乎在万物之中都能看见你",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 48,
+  "time": 186.43,
+  "end": 187.76,
+  "en": "I'm searching for",
+  "zh": "我在寻找",
+  "words": 3,
+  "placeholder": false
+ },
+ {
+  "n": 49,
+  "time": 187.76,
+  "end": 189.37,
+  "en": "Searching for you everywhere",
+  "zh": "在每个角落寻找你",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 50,
+  "time": 189.37,
+  "end": 193.28,
+  "en": "But somehow you can stop transforming",
+  "zh": "可不知怎么，你却能停止变幻",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 51,
+  "time": 193.28,
+  "end": 196.32,
+  "en": "I'm searching for, searching for, searching for",
+  "zh": "我在寻找，寻找，寻找",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 52,
+  "time": 196.32,
+  "end": 198.93,
+  "en": "Searching for, searching for, searching for",
+  "zh": "寻找，寻找，寻找",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 53,
+  "time": 198.93,
+  "end": 200.25,
+  "en": "A-Ah",
+  "zh": "啊——啊",
+  "words": 1,
+  "placeholder": false
+ },
+ {
+  "n": 54,
+  "time": 200.25,
+  "end": 203.16,
+  "en": "I'm searching for, searching for, searching for",
+  "zh": "我在寻找，寻找，寻找",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 55,
+  "time": 203.16,
+  "end": 206.95,
+  "en": "My old self that's gone since you have left",
+  "zh": "寻找自你离去便消失的从前的我",
+  "words": 9,
+  "placeholder": false
+ },
+ {
+  "n": 56,
+  "time": 207.14,
+  "end": 214.35,
+  "en": "Each one of us has a bucket of love",
+  "zh": "我们每个人都有一桶爱",
+  "words": 9,
+  "placeholder": false
+ },
+ {
+  "n": 57,
+  "time": 214.35,
+  "end": 221.18,
+  "en": "Some of us empty, some of us filled up",
+  "zh": "有些人的空了，有些人的满了",
+  "words": 9,
+  "placeholder": false
+ },
+ {
+  "n": 58,
+  "time": 221.18,
+  "end": 228.16,
+  "en": "Cut us into pieces, break us down to the cell",
+  "zh": "将我们切成碎片，分解到细胞",
+  "words": 10,
+  "placeholder": false
+ },
+ {
+  "n": 59,
+  "time": 228.16,
+  "end": 232.86,
+  "en": "Merge us back up, we have evolved now",
+  "zh": "再把我们拼合，我们如今已进化",
+  "words": 8,
+  "placeholder": false
+ },
+ {
+  "n": 60,
+  "time": 233.77,
+  "end": 237.09,
+  "en": "If you turn into a flower",
+  "zh": "如果你变成一朵花",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 61,
+  "time": 237.09,
+  "end": 240.48,
+  "en": "You must be the most delicate ever",
+  "zh": "一定是最娇嫩的那一朵",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 62,
+  "time": 240.48,
+  "end": 243.94,
+  "en": "Even if you bloom just occasionally",
+  "zh": "即使你只是偶尔绽放",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 63,
+  "time": 243.94,
+  "end": 247.37,
+  "en": "You're the only perfect flower for me",
+  "zh": "你就是我唯一完美的花",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 64,
+  "time": 247.37,
+  "end": 250.78,
+  "en": "If you turn into a human",
+  "zh": "如果你变成一个人",
+  "words": 6,
+  "placeholder": false
+ },
+ {
+  "n": 65,
+  "time": 250.78,
+  "end": 254.22,
+  "en": "I like all the warmth coming from your hands",
+  "zh": "我喜欢你双手传来的所有温暖",
+  "words": 9,
+  "placeholder": false
+ },
+ {
+  "n": 66,
+  "time": 254.22,
+  "end": 257.56,
+  "en": "Bitter stinky breath with hair that is unruly",
+  "zh": "苦涩难闻的口气，头发也乱糟糟",
+  "words": 8,
+  "placeholder": false
+ },
+ {
+  "n": 67,
+  "time": 257.56,
+  "end": 261.06,
+  "en": "You're the only perfect human for me",
+  "zh": "你就是我唯一完美的人",
+  "words": 7,
+  "placeholder": false
+ },
+ {
+  "n": 68,
+  "time": 261.06,
+  "end": 263.84,
+  "en": "I'm searching",
+  "zh": "我在寻找",
+  "words": 2,
+  "placeholder": false
+ },
+ {
+  "n": 69,
+  "time": 275.75,
+  "end": 278.68,
+  "en": "If you're a dog",
+  "zh": "如果你是一只狗",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 70,
+  "time": 278.68,
+  "end": 280.55,
+  "en": "A little puppy",
+  "zh": "一只小小的狗狗",
+  "words": 3,
+  "placeholder": false
+ },
+ {
+  "n": 71,
+  "time": 280.55,
+  "end": 282.73,
+  "en": "Going ruff ruff ruff",
+  "zh": "汪汪汪地叫着",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 72,
+  "time": 282.73,
+  "end": 285.58,
+  "en": "If you're a fruit",
+  "zh": "如果你是一颗水果",
+  "words": 4,
+  "placeholder": false
+ },
+ {
+  "n": 73,
+  "time": 285.58,
+  "end": 287.35,
+  "en": "A tomato",
+  "zh": "一颗番茄",
+  "words": 2,
+  "placeholder": false
+ },
+ {
+  "n": 74,
+  "time": 287.35,
+  "end": 290.37,
+  "en": "Full of juice",
+  "zh": "满是汁水",
+  "words": 3,
+  "placeholder": false
+ }
+]
