@@ -1,0 +1,35 @@
+{
+  "name": "world-search-you-mv-v2",
+  "version": "0.3.0",
+  "private": true,
+  "description": "world.search(you); — Bonnie x Fanny MV. Remotion; CRT ASCII -> OLED motion graphics.",
+  "scripts": {
+    "studio": "remotion studio src/index.js",
+    "render": "remotion render src/index.js WorldSearchYou out/world_search_you_v4_1080p60.mp4",
+    "render:draft": "remotion render src/index.js WorldSearchYouDraft out/world_search_you_v4_draft_1080p30.mp4",
+    "stills": "node tools/stills.mjs",
+    "analyze": "node tools/analyze.mjs",
+    "lyrics": "node tools/lyrics.mjs public/data/song.lrc",
+    "lyric-timing": "node tools/lyric_timing.mjs",
+    "timeline-doc": "node tools/timeline_doc.mjs"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/jetbrains-mono": "^5.2.8",
+    "@fontsource/noto-sans-sc": "^5.2.8",
+    "@fontsource/vt323": "^5.2.7",
+    "@remotion/bundler": "^4.0.539",
+    "@remotion/cli": "^4.0.539",
+    "@remotion/media-utils": "^4.0.539",
+    "@remotion/motion-blur": "4.0.539",
+    "@remotion/renderer": "^4.0.539",
+    "ffmpeg-static": "^5.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.539"
+  },
+  "allowScripts": {
+    "ffmpeg-static@5.2.0": true,
+    "esbuild@0.28.1": true
+  }
+}

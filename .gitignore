@@ -1,0 +1,42 @@
+# Dependencies and generated renders
+node_modules/
+out/
+dist/
+build/
+.cache/
+cache/
+.remotion/
+coverage/
+tmp/
+temp/
+*.log
+*.tmp
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Audio is supplied locally; finished videos and handoff archives are not source
+/public/song.mp3
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.zip
+*.7z
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
